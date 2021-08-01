@@ -1,0 +1,13 @@
+body {
+  width: 290px;
+  margin: auto;
+}
+.post {
+  margin: 12px auto;
+  padding: 12px 20px;
+  border: 1px solid #eee;
+  border-radius: 4px;
+}
+.post-image {
+  max-width: 250px;
+}
